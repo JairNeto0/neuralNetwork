@@ -24,7 +24,6 @@ ehthumbs.db
 *.userprefs
 *.csproj
 *.suo
-*.sln
 *.user
 *.vsconfig
 *.unityproj

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "awfRNA", "awfRNA\awfRNA.csproj", "{9A69DE22-56DE-4888-A3D5-7AC1F47E9F2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A69DE22-56DE-4888-A3D5-7AC1F47E9F2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A69DE22-56DE-4888-A3D5-7AC1F47E9F2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A69DE22-56DE-4888-A3D5-7AC1F47E9F2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A69DE22-56DE-4888-A3D5-7AC1F47E9F2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D2BD33A-843A-4536-9C4F-E21AD4446A6A}
+	EndGlobalSection
+EndGlobal
